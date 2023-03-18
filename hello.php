@@ -1,1 +1,3 @@
-echo "<h1>This is working</h1>"
+<?php
+    echo "hello";
+?>
